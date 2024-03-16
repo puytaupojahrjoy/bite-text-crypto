@@ -1,0 +1,29 @@
+{
+  "name": "bite-text-crypto",
+  "version": "1.0.0",
+  "description": "A collection of utilities for text encryption and hashing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<repository_url>"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "crypto": "^1.0.1",
+    "quantumquirks-bend": "1.0.0",
+    "soulful-tools-stop": "1.0.0",
+    "tedscreaming-text-crypto": "1.1.4",
+	"lapuhovlamel-image-utils": "1.1.4",
+    "zenith-insights-fit": "1.0.0",
+    "stellar-wisdom-rise": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "<repository_url>/issues"
+  },
+  "homepage": "<repository_url>#readme"
+}
